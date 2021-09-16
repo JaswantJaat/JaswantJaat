@@ -1,36 +1,38 @@
  {
-    "name": "speedinfoapp.blogspot",
-    "short_name": "speedinfoapp.blogspot",
-	"theme_color": "#4A90E2",
-  "background_color": "#F7F8F9",
+    {
+  "background_color": "#ffffff",
+  "description": "Sarkari Yojana App, Scholarship App, Labour Card App,",
+  "dir": "ltr",
   "display": "standalone",
-    "icons": [
-        {
-            "src": "https://lh3.googleusercontent.com/-um1Hs0ZYTng/YUJKELXkmdI/AAAAAAAABC8/hN0WDpA_0xMWkoe9MeJhR-NOMt2JDUt7wCNcBGAsYHQ/h120/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-         
-        },
-        {
-            "src": "https://lh3.googleusercontent.com/-J0f1p0nzvO8/YUJKRTHoefI/AAAAAAAABDA/GEaMzm6lkXwrYXEh6UHO_H3X1z1Q4ymQwCNcBGAsYHQ/h120/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-           
-        }
-		{
+  "name": "speedinfoapp.blogspot",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "speedinfoapp.blogspot",
+  "start_url": "/",
+  "theme_color": "#1a1a1a",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
       "src": "https://lh3.googleusercontent.com/-qWVDohOneWs/YUJKgoWFChI/AAAAAAAABDM/Oy1DTkka7m4wG17v9uMOLDUSc2IhrrPbACNcBGAsYHQ/h120/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-gIgKK0RF6xY/YUJKutAXx6I/AAAAAAAABDY/lqNE35ixfTIKZ__j51L1r_Ii3OJeTs0GQCNcBGAsYHQ/h120/favicon-32x32.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "32x32"
     },
     {
       "src": "https://lh3.googleusercontent.com/-gkOjAAzPREY/YUJKoqOfdQI/AAAAAAAABDQ/-eDhoET9apgyLxBzAwOVOBIx7zwhbNZWQCNcBGAsYHQ/h120/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-r9_FC19Qu0I/YUJKZH_V6tI/AAAAAAAABDI/z0ZuMcozb6oNqx-_vSJXVShAmhfGNJBYwCNcBGAsYHQ/h120/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "120x120"
     }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "prefer_related_applications": false,
+  ],
+  "shortcuts": []
   "start_url": "https://speedinfoapp.blogspot.com/2021/04/sarkari-yojana.html"
 }
